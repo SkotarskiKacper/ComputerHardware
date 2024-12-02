@@ -85,3 +85,16 @@ table{
 
     border: solid 1px;
 }
+
+#autorzy_title {
+    text-align: center;
+}
+
+#autorzy_lista {
+    list-style: upper-latin;
+    margin-left: 3em;
+}
+
+#autorzy_info {
+    margin-left: 3em;
+}
