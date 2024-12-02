@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parts>
+
+    <NVidia_RTX_3080>
+        <RAM Units="Gb">12</RAM>
+        <Cores>1024</Cores>
+        <MemoryType>GDDR6X</MemoryType>
+        <Clock Units="GHz">1.67</Clock>
+    </NVidia_RTX_3080>
+
+    <Intel_Core_i7>
+        <Cores>4</Cores>
+        <Threads>8</Threads>
+        <Clock units="GHz">1.3</Clock>
+        <Cache units="Mb">8</Cache>
+    </Intel_Core_i7>
+
+    <AMD_Radeon_RX_7900>
+        <RAM units="Gb">24</RAM>
+        <MemoryType>GDDR6</MemoryType>
+        <Clock Units="MHz">2300</Clock>
+        <Cache units="Mb">96</Cache>
+    </AMD_Radeon_RX_7900>
+
+</Parts>
