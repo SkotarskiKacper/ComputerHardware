@@ -73,3 +73,15 @@
         width: 70%;
     }
 }
+
+th {
+
+    background-color: black;
+    color: white;
+
+}
+
+table{
+
+    border: solid 1px;
+}

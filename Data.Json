@@ -1,0 +1,26 @@
+[
+    {
+        "Producer": "Intel",
+        "Name": "I7",
+        "Cores": 4,
+        "Threads": 8
+
+    },
+
+    {
+        "Producer": "AMD",
+        "Name": "AMD_Radeon_RX_7900",
+        "Clock": 2.3,
+        "Cache": 96
+
+    },
+
+    {
+        "Producer": "NVidia",
+        "Name": "RTX 3080",
+        "RAM": 12,
+        "MemoryType": "GDDR6Xs"
+
+    }
+
+]
