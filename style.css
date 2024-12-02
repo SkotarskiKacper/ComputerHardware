@@ -88,6 +88,7 @@ table{
 
 #autorzy_title {
     text-align: center;
+    margin-bottom: 1cm;
 }
 
 #autorzy_lista {
@@ -97,4 +98,18 @@ table{
 
 #autorzy_info {
     margin-left: 3em;
+}
+
+#form_title{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+input {
+    background-color: blue;
+    color: white;
+}
+
+button {
+    background-color: orange;
 }
